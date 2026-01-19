@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+.auth/
+allure-results/
+
+# Virtual environments
+venv/
+ENV/
+env/
